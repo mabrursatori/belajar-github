@@ -1,3 +1,5 @@
 Mabrur Developer
 Mabrur Data Scientist
+-Python
+-R
 Mabrur Product Design
