@@ -1,3 +1,4 @@
 Mabrur Developer
 Mabrur Data Scientist
-Mabrur Product Design
+-Python
+-Matlab
